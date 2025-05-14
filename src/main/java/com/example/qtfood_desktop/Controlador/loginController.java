@@ -56,8 +56,10 @@ public class loginController {
 
     }
 
+
     private void OpenDashboard() throws IOException {
         App.setRoot("PantallaPrincipal");
+        System.out.println("ddd");
     }
 
 
